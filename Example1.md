@@ -23,3 +23,12 @@ _This is an italic text_
 __This is a bold text__  
 *This is an italic text*  
 ***This is a bold and italic text***  
+
+1<sup>st</sup> item  
+2<sup>nd</sup> item  
+
+
+![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+<img src = "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+
+![](img/java.png)
