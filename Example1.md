@@ -28,7 +28,17 @@ __This is a bold text__
 2<sup>nd</sup> item  
 
 
-![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![Google Logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)  
 <img src = "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
 
 ![](img/java.png)
+
+- First
+- Second
+- Third
+    - Fourth
+        - Fifth
+
+<hr>
+
+1.First
